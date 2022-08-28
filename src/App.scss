@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #012626;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -95,7 +95,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #F2A71B;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -129,7 +129,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: F2A71B;
 	text-align: center;
 }
 
@@ -139,7 +139,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: rgb(199, 199, 199);
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -218,7 +218,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #A5A692;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #C7FFED;
 }
 
 .experience-icon {
@@ -408,7 +408,7 @@ header h1 {
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: #D8FFDB;
 	text-align: center;
 	position: relative;
 }
@@ -419,19 +419,19 @@ footer {
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: white;
+	color: #D8FFDB;
 	position: relative;
 	text-align: center;
 }
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: #D8FFDB;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #D8FFDB;
 }
 
 .social-links {
