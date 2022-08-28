@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Mohammad alghzawi",
-      "titles": [ "Software Developer" ],
+      "titles": [ "artificial intelligence engineer" ],
       "social": [
         {
           "name": "github",
@@ -12,9 +12,20 @@
           "name": "instagram",
           "url": "https://www.instagram.com/m_s_g.algzzawi/",
           "class": "fab fa-instagram"
+        },
+        
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mohammad-alghzawi-1b0297232",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/HAMODA.SU.G/",
+          "class": "fab fa-facebook"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "mohdProfile.png"
     },
     "skills": {
       "icons": [
