@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/image1.png",
           "images/portfolio/animal-shelter/image2.png"
         ],
-        "url": "",
+        "url": "https://github.com/alghzzawi/my-restaurant",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,10 +51,6 @@
           {
             "class": "devicon-python-plain",
             "name": "Python"
-          },
-          {
-            "class": "devicon-kaggle-original-wordmark",
-            "name": "Kaggle"
           }
         ]
       },
